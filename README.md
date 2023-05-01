@@ -1,12 +1,12 @@
 <div align="center">
-<h1> :wave: Hi, I’m @romanwashere </h1>
+<h1> :wave: Hi, I’m @raxeyn </h1>
 <p> A high school student trying to gradually learn to code ❤ </p>
   
 <h1> :grey_question: About </h1>
-  <p> :label: My name is Tolga </p>
-  <p> :nerd: I am back-end developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> 🏷️ My name is Taha </p>
+  <p> 🔰 I am back-end developer </p>
+  <p> ❄️ I live in Turkey </p>
+  <p> 🖥️ Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
@@ -14,6 +14,17 @@
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
