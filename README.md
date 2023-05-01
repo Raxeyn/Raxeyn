@@ -26,8 +26,6 @@
 </picture>
 
 <h1> :gem: My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
