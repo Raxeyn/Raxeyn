@@ -13,7 +13,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -28,3 +27,5 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
